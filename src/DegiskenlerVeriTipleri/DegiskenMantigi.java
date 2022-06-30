@@ -10,7 +10,6 @@ public class DegiskenMantigi {
           
           String mesaj = "Öðrencinin notu: "; 
 
-          
           System.out.println(mesaj + ogrencininNotu);
 
 	}
