@@ -4,13 +4,14 @@ public class DegiskenMantigi {
 
 	public static void main(String[] args) {
 
-          int ogrencininNotu; // deðiþkenler adlarýný camel case mantýðýyla yazýyoruz ilk har küçük sonrasý büyük
-           
-          ogrencininNotu = 90; 
-          
-          String mesaj = "Öðrencinin notu: "; 
+		int ogrencininNotu; // deðiþkenler adlarýný camel case mantýðýyla yazýyoruz ilk har küçük sonrasý
+							// büyük
 
-          System.out.println(mesaj + ogrencininNotu);
+		ogrencininNotu = 90;
+
+		String mesaj = "Öðrencinin notu: ";
+
+		System.out.println(mesaj + ogrencininNotu);
 
 	}
 
