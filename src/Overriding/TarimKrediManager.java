@@ -1,5 +1,5 @@
-package InheritanceDemo;
+package Overriding;
 
 public class TarimKrediManager extends BaseKrediManager {
-    
+
 }
